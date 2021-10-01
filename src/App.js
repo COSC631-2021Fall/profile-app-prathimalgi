@@ -1,9 +1,11 @@
 function App() {
   return (
     <div>
-      <h1>
-        WELCOME TO EMU
-         </h1>
+      <center>
+<h1>
+<u>Resume</u>
+</h1>
+</center>
       <main>
         
       </main>

@@ -1,11 +1,13 @@
 function Courses() {
     return (
       <div>
-        <ul>
-  <li>COSC631:Ecommerce and Web DB</li>
-  <li>COSC480:Cybersecurity</li>
-  <li>COSC471:Database Principles</li>
-</ul>
+        <h2>
+          <u>Career Objective</u>
+       </h2>
+
+<h3> To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills </h3>
+
+
       </div>  
 
     );
