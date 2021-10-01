@@ -2,7 +2,7 @@ function Welcome() {
     return (
       <div>
         <p>
-         Welcome to EMU
+         Fall 2021 Courses
         </p>
       </div>  
 

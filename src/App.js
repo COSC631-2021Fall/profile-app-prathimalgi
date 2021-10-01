@@ -2,7 +2,7 @@ function App() {
   return (
     <div>
       <h1>
-        Hello
+        WELCOME TO EMU
          </h1>
       <main>
         
