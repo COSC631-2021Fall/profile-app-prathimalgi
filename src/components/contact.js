@@ -1,4 +1,4 @@
-function Welcome() {
+function Contact() {
     return (
       <div>
         <h3>Name:Prathibha Malgi</h3>
@@ -9,4 +9,4 @@ function Welcome() {
 
     );
   }
-  export default Welcome;
+  export default Contact;

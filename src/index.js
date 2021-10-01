@@ -2,8 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import Welcome from './components/welcome';
-import Courses from './components/courses'
+import Contact from './components/contact';
+import Objective from './components/objective';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -14,16 +14,16 @@ ReactDOM.render(
 
 ReactDOM.render(
   <React.StrictMode>
-    <Welcome />
+    <Contact />
   </React.StrictMode>,
-  document.getElementById('welcome')
+  document.getElementById('contact')
   );
 
   ReactDOM.render(
     <React.StrictMode>
-      <Courses/>
+      <Objective/>
     </React.StrictMode>,
-    document.getElementById('courses')
+    document.getElementById('objective')
     );
   
 

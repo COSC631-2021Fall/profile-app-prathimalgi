@@ -1,4 +1,4 @@
-function Courses() {
+function Objective() {
     return (
       <div>
         <h2>
@@ -12,4 +12,4 @@ function Courses() {
 
     );
   }
-  export default Courses;
+  export default Objective;
