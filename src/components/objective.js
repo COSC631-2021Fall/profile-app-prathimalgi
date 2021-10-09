@@ -2,10 +2,10 @@ function Objective() {
     return (
       <div>
         <h2>
-          <u>Career Objective</u>
+          Career Objective
        </h2>
 
-<h3> To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills </h3>
+<li> To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills </li>
 
 
       </div>  
