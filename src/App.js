@@ -38,7 +38,7 @@ function App() {
 <h1>
 <u>RESUME</u>
 
-<div> <button onClick ={switchTheme}> </button> </div>
+<div> <button onClick ={switchTheme}>Click here to see the theme changes </button> </div>
 </h1>
 </center>
       <main>
